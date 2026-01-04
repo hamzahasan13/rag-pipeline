@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+rag/
+
+# OS
+.DS_Store
+Thumbs.db
+
+src
+rag
