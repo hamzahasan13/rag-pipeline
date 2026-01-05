@@ -82,3 +82,9 @@ python 04_deploy_rag_services.py
 # Step 5: Verify deployment
 python 05_verify_deployment.py
 ```
+
+### 8. RAG Blueprint
+<img width="1003" height="722" alt="image" src="https://github.com/user-attachments/assets/983454ad-48a3-475d-8bb1-c0b67636b590" />
+
+### 9. Web UI
+<img width="1470" height="738" alt="image" src="https://github.com/user-attachments/assets/9b83254c-bc80-4aac-be3a-13b137fc6162" />
